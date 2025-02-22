@@ -1,0 +1,2 @@
+[console_scripts]
+lmstudio-benchmark = lmstudio_benchmark.main:main
