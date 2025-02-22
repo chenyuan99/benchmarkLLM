@@ -4,10 +4,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="lmstudio-benchmark",
+    name="benchmarkLLM",
     version="0.1.0",
     author="Yuan Chen",
-    author_email="chenyuan99@outlook.com",
+    author_email="Yuan.Chen@sojoai.com",
     description="A benchmarking tool for LM Studio inference",
     long_description=long_description,
     long_description_content_type="text/markdown",
